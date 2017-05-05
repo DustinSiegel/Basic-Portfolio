@@ -210,6 +210,7 @@ body {
 	color: #51a9a4;
 	padding: 8px 363px 18px 0px;
 	margin-left: 25px;
+	width: 95px;
 	border-bottom: solid;
 	border-width: 2px;
 	border-color: rgb(225,225,225);	
@@ -217,12 +218,13 @@ body {
 
 .copy {
 	text-align: center;
+	width: 221px;
 	color: #c1c1c1;
 	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
 	z-index: 1;
 	margin: 475px 0px 0px 0px;
-	padding-left: 466px;
-	padding-right: 466px;
+	padding-left: 430px;
+	padding-right: 430px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	border-top: solid;
@@ -251,12 +253,13 @@ body {
 
 .copy3 {
 	text-align: center;
+	width: 221px;
 	color: #c1c1c1;
 	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
 	z-index: 1;
 	margin: 755px 0px 0px 0px;
-	padding-left: 466px;
-	padding-right: 466px;
+	padding-left: 430px;
+	padding-right: 430px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	border-top: solid;
@@ -268,7 +271,7 @@ body {
 
 
 input[type=text], select, textarea {
-    width: 450px;
+    width: 460px;
     padding: 5px;
 	border-color: rgb(225,225,225);	
     border-width: 1px;
