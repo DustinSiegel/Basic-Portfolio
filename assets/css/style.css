@@ -237,11 +237,12 @@ body {
 .copy2 {
 	text-align: center;
 	color: #c1c1c1;
+	width: 221px;
 	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
 	z-index: 1;
-	margin: 57px -440px 0px -131px;
-	padding-left: 0px;
-	padding-right: 0px;
+	margin: 513px 0px 0px 0px;
+	padding-left: 430px;
+	padding-right: 430px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	border-top: solid;
