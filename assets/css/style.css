@@ -199,7 +199,7 @@ body {
 
 .stone2 {
 	position: absolute;
-	height: 513px;
+	height: 515px;
 	width: 1081px;
 }
 
@@ -240,7 +240,7 @@ body {
 	width: 221px;
 	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
 	z-index: 1;
-	margin: 513px 0px 0px 0px;
+	margin: 515px 0px 0px 0px;
 	padding-left: 430px;
 	padding-right: 430px;
 	padding-top: 10px;
@@ -258,7 +258,7 @@ body {
 	color: #c1c1c1;
 	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
 	z-index: 1;
-	margin: 755px 0px 0px 0px;
+	margin: 760px 0px 0px 0px;
 	padding-left: 430px;
 	padding-right: 430px;
 	padding-top: 10px;
@@ -340,7 +340,7 @@ input[type=submit]:hover {
 
 #stone3 {
 	position: absolute;
-	height: 755px;
+	height: 760px;
 	width: 1081px;
 
 }
